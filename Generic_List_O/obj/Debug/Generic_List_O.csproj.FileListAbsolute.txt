@@ -1,0 +1,6 @@
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\bin\Debug\Generic_List_O.exe.config
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\bin\Debug\Generic_List_O.exe
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\bin\Debug\Generic_List_O.pdb
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.csprojResolveAssemblyReference.cache
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.exe
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.pdb

@@ -1,0 +1,9 @@
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Generic_List_O_Tests.dll
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Generic_List_O_Tests.pdb
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Generic_List_O.exe
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Generic_List_O.pdb
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.csprojResolveAssemblyReference.cache
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.dll
+C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.pdb
