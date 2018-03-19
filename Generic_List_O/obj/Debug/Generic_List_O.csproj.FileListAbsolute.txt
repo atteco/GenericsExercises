@@ -4,3 +4,4 @@ C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\b
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.csprojResolveAssemblyReference.cache
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.exe
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.pdb
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\Generic_List_O.exe.config
