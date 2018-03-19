@@ -7,3 +7,16 @@ C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_T
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.csprojResolveAssemblyReference.cache
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.dll
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.pdb
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\Generic_List_O_Tests.dll
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\Generic_List_O_Tests.pdb
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\Generic_List_O.exe
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\mscorlib.dll
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\Generic_List_O.pdb
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\normidna.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\normnfc.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\normnfd.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\normnfkc.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\bin\Debug\normnfkd.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.csprojResolveAssemblyReference.cache
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.dll
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O_Tests\obj\Debug\Generic_List_O_Tests.pdb

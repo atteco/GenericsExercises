@@ -102,6 +102,7 @@ namespace Generic_List_O
         {
             return GetEnumerator();
         }
+
     }
 
     //following class is implemented according to an example found here: 

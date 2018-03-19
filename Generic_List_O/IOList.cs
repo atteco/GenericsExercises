@@ -8,7 +8,7 @@ namespace Generic_List_O
         void Delete(T item);
         void DeleteItem(T item);
         void DeleteItem(Func<T, bool> condition);
-        T[] GetAll();
+        T[] GetAllInArray();
         ItemEnum<T> GetEnumerator();
         T GetItem(Func<T, bool> condition);
         T GetItemFromIndex(int i);

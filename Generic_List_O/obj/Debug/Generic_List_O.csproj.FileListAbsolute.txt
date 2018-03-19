@@ -5,3 +5,14 @@ C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\o
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.exe
 C:\Users\atte\Source\Repos\GenericsExcerises\GenericsExcersises\Generic_List_O\obj\Debug\Generic_List_O.pdb
 C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\Generic_List_O.exe.config
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\obj\Debug\Generic_List_O.csprojResolveAssemblyReference.cache
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\Generic_List_O.exe
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\Generic_List_O.pdb
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\mscorlib.dll
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\normidna.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\normnfc.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\normnfd.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\normnfkc.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\bin\Debug\normnfkd.nlp
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\obj\Debug\Generic_List_O.exe
+C:\Users\attcol102\Source\Repos\GenericsExercises\Generic_List_O\obj\Debug\Generic_List_O.pdb
