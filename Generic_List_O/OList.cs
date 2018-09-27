@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*git push test 27.9.2018 . . . */
+
 namespace Generic_List_O
 {
     public class OList<T> : IEnumerable, IOList<T> where T:class
